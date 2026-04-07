@@ -1,6 +1,11 @@
-# 2025-SBPO
-Algoritmo heurístico de otimização sequencial para planejamento de lavra
+# Open-Pit Mine Scheduling Optimization with Python (Colab Ready)
 
-Os arquivos de entrada (modelo de blocos e lista de precedências) devem ser obtidos da fonte original, a biblioteca pública MineLib, pelo seguinte endereço (https://mansci-web.uai.cl/minelib/Datasets.xhtml).
+Click on any notebook below to open it directly in Google Colab.  
+No local installation is required.
 
-Para consulta dos resultados obtidos com o algoritmo desenvolvido verificar o artigo submetido no LVII Simpósio Brasileiro de Pesquisa Operacional (SBPO-2025).
+---
+
+## Minelib datasets
+
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/douglasmazzinghy/2026-SBPO/blob/main/mclaughlin.ipynb) Jupyter Notebooks  
+
